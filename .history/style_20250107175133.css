@@ -1,0 +1,12 @@
+.webGlobal{
+    font-family:'font_original',sans-serif;
+    font-size: 1.5em;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+   font-style:italic;
+    color: rgb(219, 0, 201);
+    /*text-decoration: underline;*/
+}
